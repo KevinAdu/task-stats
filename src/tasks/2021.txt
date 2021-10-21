@@ -1,5 +1,4 @@
 Week 1 (January 4th)
-
 Done tasks: 84
 * Photography - 0
 * Development - 8
@@ -10,7 +9,6 @@ Done tasks: 84
 * Fitness/Health - 16
 
 Week 2 (January 11th)
-
 Done tasks: 94
 * Photography - 0
 * Development - 12
@@ -21,7 +19,6 @@ Done tasks: 94
 * Fitness/Health - 21
 
 Week 3 (January 18th)
-
 Done tasks: 88
 * Photography - 0
 * Development - 10
@@ -32,7 +29,6 @@ Done tasks: 88
 * Fitness/Health - 23
 
 Week 4 (January 25th)
-
 Done tasks: 79
 * Photography - 0
 * Development - 8
@@ -43,7 +39,6 @@ Done tasks: 79
 * Fitness/Health - 16
 
 Week 5 (February 1st)
-
 Done tasks: 96
 * Photography - 0
 * Development - 23
@@ -54,7 +49,6 @@ Done tasks: 96
 * Fitness/Health - 14
 
 Week 6 (February 8th)
-
 Done tasks: 84
 * Photography - 0
 * Development - 11
@@ -65,7 +59,6 @@ Done tasks: 84
 * Fitness/Health - 12
 
 Week 7 (February 15th)
-
 Done tasks: 82
 * Photography - 0
 * Development - 11
@@ -76,7 +69,6 @@ Done tasks: 82
 * Fitness/Health - 15
 
 Week 8 (February 22nd)
-
 Done tasks: 50
 * Photography - 0
 * Development - 0
@@ -87,7 +79,6 @@ Done tasks: 50
 * Fitness/Health - 8
 
 Week 9 (March 1st)
-
 Done tasks: 55
 * Photography - 0
 * Development - 8
@@ -98,7 +89,6 @@ Done tasks: 55
 * Fitness/Health - 10
 
 Week 10 (March 8th)
-
 Done tasks: 55
 * Photography - 2
 * Development - 14
@@ -109,7 +99,6 @@ Done tasks: 55
 * Fitness/Health - 7
 
 Week 11 (March 15th)
-
 Done tasks: 32
 * Photography - 0
 * Development - 4
@@ -120,7 +109,6 @@ Done tasks: 32
 * Fitness/Health - 6
 
 Week 12 (March 22nd)
-
 Done tasks: 51
 * Photography - 0
 * Development - 11
@@ -131,7 +119,6 @@ Done tasks: 51
 * Fitness/Health - 9
 
 Week 13 (March 29th)
-
 Done tasks: 44
 * Photography - 0
 * Development - 0
@@ -142,7 +129,6 @@ Done tasks: 44
 * Fitness/Health - 11
 
 Week 14 (April 5th)
-
 Done tasks: 93
 * Photography - 0
 * Development - 36
@@ -153,7 +139,6 @@ Done tasks: 93
 * Fitness/Health - 10
 
 Week 15 (April 12th)
-
 Done tasks: 53
 * Photography - 0
 * Development - 4
@@ -164,7 +149,6 @@ Done tasks: 53
 * Fitness/Health - 10
 
 Week 16 (April 19th)
-
 Done tasks: 70
 * Photography - 1
 * Development - 13
@@ -175,7 +159,6 @@ Done tasks: 70
 * Fitness/Health - 12
 
 Week 16 (April 26th)
-
 Done tasks: 65
 * Photography - 0 
 * Development - 10
@@ -186,7 +169,6 @@ Done tasks: 65
 * Fitness/Health - 11
 
 Week 17 (May 3rd)
-
 Done tasks: 60
 * Photography - 0
 * Development - 0
@@ -198,7 +180,6 @@ Done tasks: 60
 * DJ - 2
 
 Week 18 (May 10th)
-
 Done tasks: 76
 * Photography - 0
 * Development - 0
@@ -210,7 +191,6 @@ Done tasks: 76
 * DJ - 2
 
 Week 19 (May 17th)
-
 Done tasks: 34
 * Photography - 0
 * Development - 0
@@ -222,7 +202,6 @@ Done tasks: 34
 * DJ - 2
 
 Week 20 (May 24th)
-
 Done tasks: 36
 * Photography - 0
 * Development - 0
@@ -234,7 +213,6 @@ Done tasks: 36
 * DJ - 0
 
 Week 21 (May 31st)
-
 Done tasks: 38
 * Photography - 0
 * Development - 0
@@ -244,8 +222,8 @@ Done tasks: 38
 * Finance - 1
 * Fitness/Health - 10
 * DJ - 0
-Week 22 (June 7th)
 
+Week 22 (June 7th)
 Done tasks: 77
 * Photography - 1
 * Development - 0
@@ -255,8 +233,8 @@ Done tasks: 77
 * Finance - 7
 * Fitness/Health - 21
 * DJ - 1
-Week 23 (June 14th)
 
+Week 23 (June 14th)
 Done tasks: 40
 * Photography - 1
 * Development - 0
@@ -266,8 +244,8 @@ Done tasks: 40
 * Finance - 1
 * Fitness/Health - 11
 * DJ - 0
-Week 24 (June 21st)
 
+Week 24 (June 21st)
 Done tasks: 38
 * Photography - 0
 * Development - 0
@@ -277,8 +255,8 @@ Done tasks: 38
 * Finance - 2
 * Fitness/Health - 5
 * DJ - 0
-Week 26 (June 28th)
 
+Week 26 (June 28th)
 Done tasks: 11
 * Photography - 0
 * Development - 0
@@ -288,8 +266,8 @@ Done tasks: 11
 * Finance - 1
 * Fitness/Health - 1
 * DJ - 0
-Week 27 (July 5th)
 
+Week 27 (July 5th)
 Done tasks: 21
 * Photography - 0
 * Development - 0
@@ -300,8 +278,8 @@ Done tasks: 21
 * Fitness/Health - 1
 * DJ - 0
 * Streaming - 1
-Week 28 (July 12th)
 
+Week 28 (July 12th)
 Done tasks: 27
 * Photography - 0
 * Development - 1
@@ -312,8 +290,8 @@ Done tasks: 27
 * Fitness/Health - 6
 * DJ - 0
 * Streaming - 1
-Week 29 (July 19th)
 
+Week 29 (July 19th)
 Done tasks: 45
 * Photography - 0
 * Development - 2
@@ -324,8 +302,8 @@ Done tasks: 45
 * Fitness/Health - 15
 * DJ - 0
 * Streaming - 0
-Week 30 (July 26th)
 
+Week 30 (July 26th)
 Done tasks: 61
 * Photography - 2
 * Development - 6
@@ -336,8 +314,8 @@ Done tasks: 61
 * Fitness/Health - 16
 * DJ - 0
 * Streaming - 1
-Week 31 (August 2nd)
 
+Week 31 (August 2nd)
 Done tasks: 69
 * Photography - 2
 * Development - 14
@@ -348,27 +326,3 @@ Done tasks: 69
 * Fitness/Health - 16
 * DJ - 0
 * Streaming - 1
-Week 32 (August 9th)
-
-Done tasks:
-* Photography -
-* Development -
-* Design -
-* Japanese -
-* General Lifestyle -
-* Finance -
-* Fitness/Health -
-* DJ -
-* Streaming -
-
-
-
-
-
-
-
-
-
-
-
-

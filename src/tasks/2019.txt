@@ -1,5 +1,4 @@
 Week 13 (March 25th)
-
 Done tasks: 49
 * Photography - 3
 * Development - 2
@@ -7,7 +6,6 @@ Done tasks: 49
 * General Lifestyle - 24
 
 Week 14 (April 1st)
-
 Done tasks: 39
 * Photography - 1
 * Development - 5
@@ -16,7 +14,6 @@ Done tasks: 39
 * Finance - 2
 
 Week 15 (April 8th)
-
 Done tasks: 53
 * Photography - 3
 * Development - 12
@@ -26,7 +23,6 @@ Done tasks: 53
 * Fitness - 1
 
 Week 16 (April 15th)
-
 Done tasks: 29
 * Photography - 0
 * Development - 4
@@ -37,7 +33,6 @@ Done tasks: 29
 * Design - 1
 
 Week 17 (April 22nd)
-
 Done tasks: 54
 * Photography - 1
 * Development - 6
@@ -46,14 +41,12 @@ Done tasks: 54
 * Fitness - 3
 
 Week 18 (April 29th)
-
 Done tasks: 14
 * Japanese - 7
 * General Lifestyle - 6
 * Fitness - 1
 
 Week 19 (May 6th)
-
 Done tasks: 66
 * Photography - 1
 * Development - 16
@@ -64,7 +57,6 @@ Done tasks: 66
 * Design - 1
 
 Week 20 (May 13th)
-
 Done tasks: 48
 * Photography - 0
 * Development - 4
@@ -74,7 +66,6 @@ Done tasks: 48
 * Fitness - 4
 
 Week 21 (May 20th)
-
 Done tasks: 56
 * Photography - 2
 * Development - 12
@@ -84,9 +75,8 @@ Done tasks: 56
 * Fitness - 3
 
 Week 22 (May 27th)
-
 Done tasks: 51
-* Photography - 
+* Photography - 0
 * Development - 5
 * Japanese - 25
 * General Lifestyle - 15
@@ -94,7 +84,6 @@ Done tasks: 51
 * Fitness - 5
 
 Week 23 (June 3rd)
-
 Done tasks: 54
 * Photography - 0
 * Development - 4
@@ -104,7 +93,6 @@ Done tasks: 54
 * Fitness - 6
 
 Week 24 (June 10th)
-
 Done tasks: 23
 * Photography - 0
 * Development - 8
@@ -114,18 +102,15 @@ Done tasks: 23
 * Fitness - 3
 
 Week 25 (June 17th)
-
 Done tasks: 23
 * Photography - 0
 * Development - 4
 * Japanese - 7
 * General Lifestyle - 9
-* Finance - 
+* Finance - 0
 * Fitness - 3
 
-
 Week 26 (June 24th)
-
 Done tasks: 34
 * Photography - 0
 * Development - 3
@@ -136,29 +121,26 @@ Done tasks: 34
 * Fitness - 5
 
 Week 27 (July 1st)
-
 Done tasks: 36
 * Photography - 0
 * Development - 2
 * Design - 0
 * Japanese - 16
 * General Lifestyle - 14
-* Finance - 
+* Finance - 0
 * Fitness - 4
 
 Week 28 (July 8th)
-
 Done tasks: 24
-* Photography - 
+* Photography - 0
 * Development - 4
-* Design -
+* Design - 0
 * Japanese - 12
 * General Lifestyle - 7
-* Finance - 
+* Finance - 0
 * Fitness - 1
 
 Week 29 (July 15th)
-
 Done tasks: 37
 * Photography - 0
 * Development - 5
@@ -169,11 +151,9 @@ Done tasks: 37
 * Fitness - 1
 
 Week 30 (22nd July)
-
 Break
 
 Week 31 (July 29th)
-
 Done tasks: 48
 * Photography - 0
 * Development - 6
@@ -184,7 +164,6 @@ Done tasks: 48
 * Fitness - 3
 
 Week 32 (August 5th)
-
 Done tasks: 51
 * Photography - 0
 * Development - 8
@@ -195,7 +174,6 @@ Done tasks: 51
 * Fitness - 2 
 
 Week 33 (August 12th)
-
 Done tasks: 29
 * Photography - 1
 * Development - 5
@@ -206,7 +184,6 @@ Done tasks: 29
 * Fitness - 1
 
 Week 34 (August 19th)
-
 Done tasks: 68
 * Photography - 1
 * Development - 12
@@ -218,35 +195,32 @@ Done tasks: 68
 * Korean - 2
 
 Week 35 (August 26th)
-
 Done tasks: 54
 * Photography - 0
 * Development - 6
-* Design -
+* Design - 0
 * Japanese - 19
 * General Lifestyle - 22
 * Finance - 1
 * Fitness - 12
-* Korean -
+* Korean - 0
 
 Week 36 (September 2nd)
-
 Done tasks: 32
 * Photography - 0
 * Development - 5
 * Design - 0
 * Japanese - 14
 * General Lifestyle - 9
-* Finance - 
+* Finance - 0
 * Fitness - 4
-* Korean -
+* Korean - 0
 
 Week 37 (September 9th)
-
 Done tasks: 39
-* Photography - 
+* Photography - 0
 * Development - 6
-* Design -
+* Design - 0
 * Japanese - 14
 * General Lifestyle - 9
 * Finance - 3
@@ -254,7 +228,6 @@ Done tasks: 39
 * Korean - 0
 
 Week 38 (September 16th)
-
 Done tasks: 67
 * Photography - 2
 * Development - 16
@@ -266,7 +239,6 @@ Done tasks: 67
 * Korean - 0
 
 Week 39 (September 23rd)
-
 Done tasks: 24
 * Photography - 0
 * Development - 4
@@ -278,7 +250,6 @@ Done tasks: 24
 * Korean - 0
 
 Week 40 (September 30th)
-
 Done tasks: 58
 * Photography - 0
 * Development - 17
@@ -290,7 +261,6 @@ Done tasks: 58
 * Korean - 0
 
 Week 41 (October 7th)
-
 Done tasks: 84
 * Photography - 0
 * Development - 25
@@ -302,19 +272,17 @@ Done tasks: 84
 * Korean - 0
 
 Week 42 (October 14th)
-
 Done tasks: 78
 * Photography - 0
 * Development - 20
-* Design -
+* Design - 0
 * Japanese - 22
 * General Lifestyle - 21
 * Finance - 2
 * Fitness - 13
-* Korean -
+* Korean - 0
 
 Week 43 (October 21st)
-
 Done tasks: 95
 * Photography - 0
 * Development - 34
@@ -326,7 +294,6 @@ Done tasks: 95
 * Korean - 0
 
 Week 44 (October 28th)
-
 Done tasks: 42
 * Photography - 0
 * Development - 0
@@ -338,7 +305,6 @@ Done tasks: 42
 * Korean - 0
 
 Week 45 (November 5th)
-
 Done tasks: 72
 * Photography - 0
 * Development - 22
@@ -350,7 +316,6 @@ Done tasks: 72
 * Korean - 0
 
 Week 46 (November 12th)
-
 Done tasks: 51
 * Photography - 0
 * Development - 14
@@ -362,7 +327,6 @@ Done tasks: 51
 * Korean - 0
 
 Week 47 (November 19th)
-
 Done tasks: 46
 * Photography - 0
 * Development - 6
@@ -374,19 +338,17 @@ Done tasks: 46
 * Korean - 0
 
 Week 48 (November 26th)
-
 Done tasks: 51
-* Photography -
+* Photography - 0
 * Development - 4
 * Design - 4
 * Japanese - 22
 * General Lifestyle - 12
-* Finance -
+* Finance - 0
 * Fitness/Health - 9
-* Korean -
+* Korean - 0
 
 Week 49 (December 2nd)
-
 Done tasks: 68
 * Photography - 0
 * Development - 7
@@ -398,7 +360,6 @@ Done tasks: 68
 * Korean - 0
 
 Week 50 (December 9th)
-
 Done tasks: 74
 * Photography - 0
 * Development - 8
@@ -410,7 +371,6 @@ Done tasks: 74
 * Korean - 0
 
 Week 51 (December 16th)
-
 Done tasks: 53
 * Photography - 0
 * Development - 10
@@ -422,7 +382,6 @@ Done tasks: 53
 * Korean - 0
 
 Week 52 (December 23rd)
-
 Done tasks: 57
 * Photography - 1
 * Development - 8
@@ -432,4 +391,3 @@ Done tasks: 57
 * Finance - 0
 * Fitness/Health - 9
 * Korean - 0
-
