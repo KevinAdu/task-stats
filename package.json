@@ -2,30 +2,18 @@
   "name": "task-stats",
   "version": "0.1.0",
   "private": true,
+  "source": "./src/index.html",
   "dependencies": {
-    "@testing-library/jest-dom": "^5.11.4",
-    "@testing-library/react": "^11.1.0",
-    "@testing-library/user-event": "^12.1.10",
-    "@types/jest": "^27.0.0",
-    "@types/node": "^16.6.0",
-    "@types/react": "^17.0.17",
-    "@types/react-dom": "^17.0.9",
-    "raw-loader": "^4.0.2",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
-    "react-scripts": "4.0.3",
     "typescript": "^4.3.5",
-    "web-vitals": "^1.0.1"
+    "web-vitals": "^1.0.1",
+    "jscharting-react": "^1.2.1"
   },
-  
   "scripts": {
-    "source": "src/index.html",
-    "scripts": {
-      "start": "parcel",
-      "build": "parcel build"
-    },
-    "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "start": "parcel",
+    "build": "parcel build",
+    "test": "parcel test"
   },
   "eslintConfig": {
     "extends": [
@@ -46,7 +34,15 @@
     ]
   },
   "devDependencies": {
-    "jscharting-react": "^1.2.1",
-    "parcel": "^2.6.2"
+    "@parcel/transformer-inline-string": "^2.6.2",
+    "@testing-library/jest-dom": "^5.11.4",
+    "@testing-library/react": "^11.1.0",
+    "@testing-library/user-event": "^12.1.10",
+    "@types/jest": "^27.0.0",
+    "@types/node": "^16.6.0",
+    "@types/react": "^17.0.17",
+    "@types/react-dom": "^17.0.9",
+    "parcel": "^2.6.2",
+    "process": "^0.11.10"
   }
 }

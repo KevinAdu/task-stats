@@ -1,9 +1,6 @@
-// eslint-disable-next-line import/no-webpack-loader-syntax
-import taskFile2019 from '!!raw-loader!../tasks/2019.txt';
-// eslint-disable-next-line import/no-webpack-loader-syntax
-import taskFile2020 from '!!raw-loader!../tasks/2020.txt';
-// eslint-disable-next-line import/no-webpack-loader-syntax
-import taskFile2021 from '!!raw-loader!../tasks/2021.txt';
+import taskFile2019 from 'bundle-text:../tasks/2019.txt';
+import taskFile2020 from 'bundle-text:../tasks/2020.txt';
+import taskFile2021 from 'bundle-text:../tasks/2021.txt';
 
 
 function parseYearlyTaskFile(taskFile: string) {
