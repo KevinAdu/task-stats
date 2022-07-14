@@ -1,41 +1,35 @@
-import taskFile2019 from 'bundle-text:../tasks/2019.txt';
-import taskFile2020 from 'bundle-text:../tasks/2020.txt';
-import taskFile2021 from 'bundle-text:../tasks/2021.txt';
+import { UserSerie } from 'react-charts';
 
-
-function parseYearlyTaskFile(taskFile: string) {
+export type Datum = {week: string; count: number;};
+export function parseYearlyTaskFile(taskFile: string): UserSerie<Datum>[] {
   const weeklyTasks = taskFile.split(/\n\n/);
-  const taskTypeMap = {};
-  const weeklyTaskBreakdown = weeklyTasks.map((week: string) => {
+  const map: UserSerie<Datum>[] = []
+  weeklyTasks.forEach((week: string) => {
     const weekTasks = week.split(/\n/);
-    const taskTypeCounts = weekTasks.slice(2).map(taskTypeCount => taskTypeCount.split('-'));
     
-    const taskTypeCountsArray = taskTypeCounts.map((taskTypeCount) => {
+    const taskTypeCounts = weekTasks.slice(2).map(taskTypeCount => taskTypeCount.split('-'));
+
+    taskTypeCounts.forEach((taskTypeCount) => {
       const regex = new RegExp(/\* /);
       let taskType = taskTypeCount[0].trim();
       let taskCount = taskTypeCount[1].trim();
 
       taskType = (regex.test(taskType)) ? taskType.slice(2) : taskType;
 
-      return {
-        [taskType]: taskCount
-      }
+
+      const hasLabel = map.findIndex((dataPoint) => dataPoint.label === taskType);
+      hasLabel > -1 ? map[hasLabel].data.push({count: Number(taskCount), week: weekTasks[0]}) : map.push(
+        {
+          label: taskType,
+          data: [{
+            count: Number(taskCount),
+            week: weekTasks[0]
+          }]
+        }
+      )
+        
     });
-    
-    taskTypeCountsArray.forEach(typeCount => { 
-      Object.assign(taskTypeMap, typeCount)
-    })
-    const taskTypesAndTotal = {
-      total: weekTasks.slice(1)[0].split(': ')[1],
-      ...taskTypeMap,
-    }
-    return {[weekTasks[0]]: taskTypesAndTotal}
   });
 
-  return weeklyTaskBreakdown;
-}
-export function readFiles() {
-  console.log(parseYearlyTaskFile(taskFile2019));
-  console.log(parseYearlyTaskFile(taskFile2020));
-  console.log(parseYearlyTaskFile(taskFile2021));
+  return map;
 }
